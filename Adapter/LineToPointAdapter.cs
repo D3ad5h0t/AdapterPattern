@@ -1,15 +1,24 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Runtime.CompilerServices;
 
 namespace Adapter
 {
-    public class LineToPointAdapter : Collection<Point>
+    public class LineToPointAdapter : IEnumerable<Point>
     {
-        private static int count = 0;
+        private static int _count = 0;
+        private static Dictionary<int, List<Point>> _cache = new Dictionary<int, List<Point>>();
+
+        private int _hash;
         
         public LineToPointAdapter(Line line)
         {
-            Console.WriteLine($"{++count}: Generating points for line" 
+            _hash = line.GetHashCode();
+            if (_cache.ContainsKey(_hash)) return;
+            
+            Console.WriteLine($"{++_count}: Generating points for line" 
                               + $" [{line.Start.X},{line.Start.Y}]-" 
                               + $"[{line.End.X},{line.End.Y}] (no caching)");
 
@@ -18,19 +27,33 @@ namespace Adapter
             int top = Math.Min(line.Start.Y, line.End.Y);
             int bottom = Math.Max(line.Start.Y, line.End.Y);
 
+            var points = new List<Point>();
+
             if (right - left == 0)
             {
                 for (int y = top; y <= bottom; ++y)
                 {
-                    Add(new Point(left, y));
+                    points.Add(new Point(left, y));
                 }
             } else if (line.End.Y - line.Start.Y == 0)
             {
                 for (int x = left; x <= right; ++x)
                 {
-                    Add(new Point(x, top));
+                    points.Add(new Point(x, top));
                 }
             }
+            
+            _cache.Add(_hash, points);
+        }
+
+        public IEnumerator<Point> GetEnumerator()
+        {
+            return _cache[_hash].GetEnumerator();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }
