@@ -1,0 +1,13 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\bin\Debug\netcoreapp3.1\SurrogateProperty.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\bin\Debug\netcoreapp3.1\SurrogateProperty.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\bin\Debug\netcoreapp3.1\SurrogateProperty.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\bin\Debug\netcoreapp3.1\SurrogateProperty.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\bin\Debug\netcoreapp3.1\SurrogateProperty.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\bin\Debug\netcoreapp3.1\SurrogateProperty.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\obj\Debug\netcoreapp3.1\SurrogateProperty.csprojAssemblyReference.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\obj\Debug\netcoreapp3.1\SurrogateProperty.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\obj\Debug\netcoreapp3.1\SurrogateProperty.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\obj\Debug\netcoreapp3.1\SurrogateProperty.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\obj\Debug\netcoreapp3.1\SurrogateProperty.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\obj\Debug\netcoreapp3.1\SurrogateProperty.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\SurrogateProperty\obj\Debug\netcoreapp3.1\SurrogateProperty.genruntimeconfig.cache
