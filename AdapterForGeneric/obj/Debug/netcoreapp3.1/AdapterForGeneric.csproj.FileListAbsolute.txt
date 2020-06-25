@@ -1,0 +1,13 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\bin\Debug\netcoreapp3.1\AdapterForGeneric.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\bin\Debug\netcoreapp3.1\AdapterForGeneric.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\bin\Debug\netcoreapp3.1\AdapterForGeneric.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\bin\Debug\netcoreapp3.1\AdapterForGeneric.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\bin\Debug\netcoreapp3.1\AdapterForGeneric.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\bin\Debug\netcoreapp3.1\AdapterForGeneric.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\obj\Debug\netcoreapp3.1\AdapterForGeneric.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\obj\Debug\netcoreapp3.1\AdapterForGeneric.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\obj\Debug\netcoreapp3.1\AdapterForGeneric.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\obj\Debug\netcoreapp3.1\AdapterForGeneric.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\obj\Debug\netcoreapp3.1\AdapterForGeneric.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\obj\Debug\netcoreapp3.1\AdapterForGeneric.genruntimeconfig.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\AdapterForGeneric\obj\Debug\netcoreapp3.1\AdapterForGeneric.csprojAssemblyReference.cache

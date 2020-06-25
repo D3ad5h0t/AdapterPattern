@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurrogateProperty", "Surrog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{131C6041-F886-4743-9EDE-D4E7629B9A9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterForGeneric", "AdapterForGeneric\AdapterForGeneric.csproj", "{34717C89-DD21-42E6-9BBD-72BE50964C8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{131C6041-F886-4743-9EDE-D4E7629B9A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{131C6041-F886-4743-9EDE-D4E7629B9A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{131C6041-F886-4743-9EDE-D4E7629B9A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34717C89-DD21-42E6-9BBD-72BE50964C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34717C89-DD21-42E6-9BBD-72BE50964C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34717C89-DD21-42E6-9BBD-72BE50964C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34717C89-DD21-42E6-9BBD-72BE50964C8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
