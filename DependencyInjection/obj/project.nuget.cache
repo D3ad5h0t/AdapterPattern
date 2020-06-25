@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+be8Mg8cIJeEjLNeIySKBJqcQZgxZCjiRm3cATq2p3DKOZZqP0t3zw/GWo9ifs/TQcGnhS+f5OlCAfkvcgVJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glushchenko\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

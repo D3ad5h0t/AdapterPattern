@@ -1,0 +1,15 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache

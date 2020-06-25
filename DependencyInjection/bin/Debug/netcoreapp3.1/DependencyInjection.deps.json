@@ -6,13 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Adapter/1.0.0": {
+      "DependencyInjection/1.0.0": {
         "dependencies": {
-          "Autofac": "5.2.0",
-          "morelinq": "3.3.2"
+          "Autofac": "5.2.0"
         },
         "runtime": {
-          "Adapter.dll": {}
+          "DependencyInjection.dll": {}
         }
       },
       "Autofac/5.2.0": {
@@ -22,19 +21,11 @@
             "fileVersion": "5.2.0.0"
           }
         }
-      },
-      "morelinq/3.3.2": {
-        "runtime": {
-          "lib/netstandard2.0/MoreLinq.dll": {
-            "assemblyVersion": "3.3.2.0",
-            "fileVersion": "3.3.2.0"
-          }
-        }
       }
     }
   },
   "libraries": {
-    "Adapter/1.0.0": {
+    "DependencyInjection/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -45,13 +36,6 @@
       "sha512": "sha512-V8dBH0dsv75uDzl7Sw+HkhKDPUw2eXnlMjcSVMH+tLo2s67MpTKGyDj1pDcpR+IF2u4YRs0s3/x7R88YJzIWvg==",
       "path": "autofac/5.2.0",
       "hashPath": "autofac.5.2.0.nupkg.sha512"
-    },
-    "morelinq/3.3.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-MQc8GppZJLmjvcpEdf3EkC6ovsp7gRWt2e5mC7dcIOrgwSc+yjFd3JQ0iRqr3XrUT6rb/phv0IkEmBtbfVA7AQ==",
-      "path": "morelinq/3.3.2",
-      "hashPath": "morelinq.3.3.2.nupkg.sha512"
     }
   }
 }

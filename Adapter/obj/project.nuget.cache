@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I24GDT42pKsCW5SEkfBVfo2dL47/YbL3SecLy683jhAECr6Dft9IT4VbZTtm3cmB018GrTVZ7OxVLsMhmSYVuA==",
+  "dgSpecHash": "07UO3WAGJC8DDD0QA/jfWgpd7T+dG7yclbXsYmaX+jHWmtTinK11+oit55XFBGvS4NlWsxBklrwvI7eCzIR4FQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\glushchenko\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\glushchenko\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
   ],
   "logs": []

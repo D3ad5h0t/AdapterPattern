@@ -13,3 +13,4 @@ C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\Adapter\obj\Debug\netcoreap
 C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
 C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
 C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Autofac.dll

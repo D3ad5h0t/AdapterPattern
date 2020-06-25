@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\Adapter\\Adapter.csproj": {}
+    "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\DependencyInjection\\DependencyInjection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\Adapter\\Adapter.csproj": {
+    "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\DependencyInjection\\DependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\Adapter\\Adapter.csproj",
-        "projectName": "Adapter",
-        "projectPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\DependencyInjection\\DependencyInjection.csproj",
+        "projectName": "DependencyInjection",
+        "projectPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\DependencyInjection\\DependencyInjection.csproj",
         "packagesPath": "C:\\Users\\glushchenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\Adapter\\obj\\",
+        "outputPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Adapter\\DependencyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -46,10 +46,6 @@
             "Autofac": {
               "target": "Package",
               "version": "[5.2.0, )"
-            },
-            "morelinq": {
-              "target": "Package",
-              "version": "[3.3.2, )"
             }
           },
           "imports": [

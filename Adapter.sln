@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurrogateProperty", "SurrogateProperty\SurrogateProperty.csproj", "{4456A47E-C7FA-458E-8BEF-7C56CF51F394}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{131C6041-F886-4743-9EDE-D4E7629B9A9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4456A47E-C7FA-458E-8BEF-7C56CF51F394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4456A47E-C7FA-458E-8BEF-7C56CF51F394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4456A47E-C7FA-458E-8BEF-7C56CF51F394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131C6041-F886-4743-9EDE-D4E7629B9A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131C6041-F886-4743-9EDE-D4E7629B9A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131C6041-F886-4743-9EDE-D4E7629B9A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131C6041-F886-4743-9EDE-D4E7629B9A9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
